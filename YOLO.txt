@@ -1,0 +1,5 @@
+# YOLO Achievement
+
+This file is created for the YOLO achievement - merging a pull request without review.
+
+YOLO! 🚀
