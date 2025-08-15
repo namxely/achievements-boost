@@ -1,6 +1,6 @@
 # 🏆 Achievements Boost
 
-[![GitHub stars](https://img.shields.io/github/stars/namxely/achievements-boost?style=social)](https://github.com/namxely/achievements-boost/stargazers) [![GitHub forks](https://img.shields.io/github/forks/namxely/achievements-boost?style=social)](https://github.com/namxely/achievements-boost/network) [![GitHub issues](https://img.shields.io/github/issues/namxely/achievements-boost)](https://github.com/namxely/achievements-boost/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/namxely/achievements-boost)](https://github.com/namxely/achievements-boost/pulls) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Achievement Hunter](https://img.shields.io/badge/Achievement-Hunter-ff6b35)](https://github.com/namxely)
+[![GitHub stars](https://img.shields.io/github/stars/namxely/achievements-boost)](https://github.com/namxely/achievements-boost/stargazers) [![GitHub forks](https://img.shields.io/github/forks/namxely/achievements-boost)](https://github.com/namxely/achievements-boost/network) [![GitHub issues](https://img.shields.io/github/issues/namxely/achievements-boost)](https://github.com/namxely/achievements-boost/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/namxely/achievements-boost)](https://github.com/namxely/achievements-boost/pulls) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Achievement Hunter](https://img.shields.io/badge/Achievement-Hunter-brightgreen)](https://github.com/namxely)
 
 ## 🎯 Description
 
@@ -17,18 +17,18 @@ Achievements Boost is a strategic GitHub repository designed to unlock and showc
 ## 🏅 Achievements Targeted
 
 | Achievement | Description | Status | Difficulty |
-|-------------|-------------|--------|-----------|
-| 🎯 **Quickdraw** | Create and close an issue within 5 minutes | ✅ Completed | ⭐⭐ |
-| 🦈 **Pull Shark** | Create and merge multiple pull requests | 🔄 In Progress | ⭐⭐⭐ |
-| 🎲 **YOLO** | Merge a pull request without review | ⏳ Pending | ⭐⭐ |
-| 👥 **Pair Extraordinaire** | Create commits with co-authors | ⏳ Pending | ⭐⭐⭐⭐ |
+|-------------|-------------|--------|------------|
+| 🎯 Quickdraw | Create and close an issue within 5 minutes | ✅ Completed | ⭐⭐ |
+| 🦈 Pull Shark | Create and merge multiple pull requests | 🔄 In Progress | ⭐⭐⭐ |
+| 🎲 YOLO | Merge a pull request without review | ⏳ Pending | ⭐⭐ |
+| 👥 Pair Extraordinaire | Create commits with co-authors | ⏳ Pending | ⭐⭐⭐⭐ |
 
 ## 📊 Progress Dashboard
 
 🎯 **Achievements Unlocked**: 1/4 (25%)  
 🔥 **Contribution Streak**: Active  
 ⚡ **Repository Activity**: High  
-🌟 **Community Engagement**: Growing  
+🌟 **Community Engagement**: Growing
 
 ### 📈 Current Status
 
@@ -113,7 +113,8 @@ Give a ⭐️ if this project helped you learn about GitHub achievements and col
 
 ## 📝 Recent Updates
 
-*Updated documentation with enhanced formatting and clearer structure for better readability.*
+* Updated documentation with enhanced formatting and clearer structure for better readability.
+* Added co-authored commit demonstration for Pair Extraordinaire achievement.
 
 ---
 
